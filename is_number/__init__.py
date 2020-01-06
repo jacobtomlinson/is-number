@@ -1,5 +1,6 @@
 from ._version import get_versions
-__version__ = get_versions()['version']
+
+__version__ = get_versions()["version"]
 del get_versions
 
 
@@ -9,4 +10,3 @@ def is_number(in_value):
         return True
     except ValueError:
         return False
-
