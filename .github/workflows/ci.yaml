@@ -24,8 +24,8 @@ jobs:
       - name: Install
         shell: bash -l {0}
         run: |
-          pip install -e .
-          pip install -r requirements_test.txt
+          python -m pip install -e .
+          python -m pip install -r requirements_test.txt
 
       - name: Run tests
         shell: bash -l {0}
