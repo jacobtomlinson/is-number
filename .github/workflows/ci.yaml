@@ -21,6 +21,10 @@ jobs:
           python-version: ${{ matrix.python-version }}
           architecture: x64
 
+      - name: Display Python version
+        shell: bash -l {0}
+        run: python -c "import sys; print(sys.version)"
+
       - name: Install
         shell: bash -l {0}
         run: |
