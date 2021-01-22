@@ -1,0 +1,6 @@
+[run]
+omit =
+    setup.py
+    versioneer.py
+    is_number/tests/test*
+    is_number/_version.py
