@@ -3,3 +3,6 @@ contact_links:
   - name: General Question
     url: https://stackoverflow.com/questions/tagged/python
     about: "If you have a question like *How do I use is-number to check if a list is all numbers?* then please ask on Stack Overflow using the #Python tag."
+  - name: Chat
+    url: https://gitter.im/is-number/community
+    about: "Chat about anything else with the community."
