@@ -41,3 +41,4 @@ Usage
    :caption: Contents:
 
    api
+   faq
