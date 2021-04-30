@@ -1,8 +1,3 @@
----
-name: Pull Request
-about: Make a change
----
-
 <!-- If you've not read our contribution guidelines please take a look at https://is-number.readthedocs.io/en/latest/contributing.html -->
 
 Closes #
