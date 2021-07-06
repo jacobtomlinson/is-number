@@ -1,3 +1,6 @@
+.. image:: docs/images/logo-wide.png
+  :alt: is-number logo
+
 is-number
 =========
 

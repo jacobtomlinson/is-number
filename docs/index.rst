@@ -59,3 +59,4 @@ Usage
 
    contributing
    maintaining
+   branding
